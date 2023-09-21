@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+h3 {
+        text-align: center;
+      }
+      .middle {
+        width: 100%;
+      }
+      .middle,
+      tr,
+      td {
+        border: 1px solid black;
+      }
+      #t2 {
+        text-align: center;
+      }
+      #t3 {
+        text-align: right;
+      }
+      td {
+        height: 15px;
+      }
+      #t-image {
+        text-align: center;
+      }
